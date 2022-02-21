@@ -12,3 +12,5 @@
 1. create-react-app
 2. react-chart-js-2
 3. chart.js
+### credits
+github color palette
