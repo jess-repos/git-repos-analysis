@@ -1,8 +1,9 @@
 # How to start
 1. terminal > git clone https://github.com/jess-repos/git-repos-analysis.git
-2. terminal cd /folder path
-3. npm install
-4. npm start
+2. terminal > cd /folder path
+3. terminal > npm install
+4. terminal > npm start
+5. browser > http://localhost:3000/
 ## Datasets
 /src/datasets
 1. issues.cs / issues.json
