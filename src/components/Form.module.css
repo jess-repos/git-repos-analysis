@@ -1,0 +1,53 @@
+.form {
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: fixed;
+  padding: 0 2rem;
+  top: 0;
+  right: 0;
+  left: 0;
+  background-color: var(--bg-color-1);
+  color: white;
+}
+.actions {
+  display: flex;
+  gap: 1rem;
+}
+.actions select,
+.actions button {
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  border: none;
+  color: white;
+  background-color: var(--color-1);
+}
+.actions select {
+  color: var(--text-color-1);
+  background-color: var(--bg-color-2);
+}
+.actions select:focus,
+.actions button:focus {
+  outline: none;
+}
+.playing {
+  pointer-events: none;
+  color: white !important;
+  background-color: gray !important;
+}
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: var(--bg-color-1);
+  text-align: center;
+  color: white;
+  padding: 0.5rem;
+}
+@media only screen and (max-width: 900px) {
+  .form {
+    padding: 0 0.25rem;
+  }
+}

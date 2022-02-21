@@ -1,0 +1,1814 @@
+[
+	{
+		"language": "JavaScript",
+		"num_repos": "1100421"
+	},
+	{
+		"language": "CSS",
+		"num_repos": "813443"
+	},
+	{
+		"language": "HTML",
+		"num_repos": "779549"
+	},
+	{
+		"language": "Shell",
+		"num_repos": "638068"
+	},
+	{
+		"language": "Python",
+		"num_repos": "548870"
+	},
+	{
+		"language": "Ruby",
+		"num_repos": "374802"
+	},
+	{
+		"language": "Java",
+		"num_repos": "369282"
+	},
+	{
+		"language": "PHP",
+		"num_repos": "339901"
+	},
+	{
+		"language": "C",
+		"num_repos": "292000"
+	},
+	{
+		"language": "C++",
+		"num_repos": "278066"
+	},
+	{
+		"language": "Makefile",
+		"num_repos": "249563"
+	},
+	{
+		"language": "Objective-C",
+		"num_repos": "168007"
+	},
+	{
+		"language": "C#",
+		"num_repos": "133013"
+	},
+	{
+		"language": "Perl",
+		"num_repos": "101450"
+	},
+	{
+		"language": "Batchfile",
+		"num_repos": "97450"
+	},
+	{
+		"language": "Go",
+		"num_repos": "91119"
+	},
+	{
+		"language": "ApacheConf",
+		"num_repos": "68849"
+	},
+	{
+		"language": "CoffeeScript",
+		"num_repos": "68833"
+	},
+	{
+		"language": "CMake",
+		"num_repos": "55874"
+	},
+	{
+		"language": "Assembly",
+		"num_repos": "47560"
+	},
+	{
+		"language": "TypeScript",
+		"num_repos": "46332"
+	},
+	{
+		"language": "Swift",
+		"num_repos": "42372"
+	},
+	{
+		"language": "Scala",
+		"num_repos": "34501"
+	},
+	{
+		"language": "Lua",
+		"num_repos": "34089"
+	},
+	{
+		"language": "ASP",
+		"num_repos": "33386"
+	},
+	{
+		"language": "PowerShell",
+		"num_repos": "32926"
+	},
+	{
+		"language": "XSLT",
+		"num_repos": "32151"
+	},
+	{
+		"language": "TeX",
+		"num_repos": "31420"
+	},
+	{
+		"language": "Haskell",
+		"num_repos": "29898"
+	},
+	{
+		"language": "R",
+		"num_repos": "29380"
+	},
+	{
+		"language": "Groovy",
+		"num_repos": "27228"
+	},
+	{
+		"language": "Clojure",
+		"num_repos": "25892"
+	},
+	{
+		"language": "Groff",
+		"num_repos": "25831"
+	},
+	{
+		"language": "Dockerfile",
+		"num_repos": "23782"
+	},
+	{
+		"language": "Arduino",
+		"num_repos": "20551"
+	},
+	{
+		"language": "Awk",
+		"num_repos": "20545"
+	},
+	{
+		"language": "VimL",
+		"num_repos": "19143"
+	},
+	{
+		"language": "Objective-C++",
+		"num_repos": "17832"
+	},
+	{
+		"language": "Matlab",
+		"num_repos": "17708"
+	},
+	{
+		"language": "QMake",
+		"num_repos": "17546"
+	},
+	{
+		"language": "Smarty",
+		"num_repos": "17276"
+	},
+	{
+		"language": "Jupyter Notebook",
+		"num_repos": "16898"
+	},
+	{
+		"language": "Emacs Lisp",
+		"num_repos": "16691"
+	},
+	{
+		"language": "M4",
+		"num_repos": "15470"
+	},
+	{
+		"language": "Rust",
+		"num_repos": "15424"
+	},
+	{
+		"language": "Puppet",
+		"num_repos": "14958"
+	},
+	{
+		"language": "Erlang",
+		"num_repos": "14949"
+	},
+	{
+		"language": "GLSL",
+		"num_repos": "13779"
+	},
+	{
+		"language": "Yacc",
+		"num_repos": "13600"
+	},
+	{
+		"language": "Scilab",
+		"num_repos": "13029"
+	},
+	{
+		"language": "Lex",
+		"num_repos": "12414"
+	},
+	{
+		"language": "Protocol Buffer",
+		"num_repos": "11749"
+	},
+	{
+		"language": "Roff",
+		"num_repos": "11565"
+	},
+	{
+		"language": "Prolog",
+		"num_repos": "11178"
+	},
+	{
+		"language": "Vim script",
+		"num_repos": "10971"
+	},
+	{
+		"language": "Visual Basic",
+		"num_repos": "10722"
+	},
+	{
+		"language": "Pascal",
+		"num_repos": "10131"
+	},
+	{
+		"language": "UnrealScript",
+		"num_repos": "9491"
+	},
+	{
+		"language": "PLpgSQL",
+		"num_repos": "9350"
+	},
+	{
+		"language": "SourcePawn",
+		"num_repos": "9002"
+	},
+	{
+		"language": "ActionScript",
+		"num_repos": "8739"
+	},
+	{
+		"language": "Nginx",
+		"num_repos": "8576"
+	},
+	{
+		"language": "Vue",
+		"num_repos": "8575"
+	},
+	{
+		"language": "NSIS",
+		"num_repos": "8072"
+	},
+	{
+		"language": "Tcl",
+		"num_repos": "8067"
+	},
+	{
+		"language": "Cucumber",
+		"num_repos": "7460"
+	},
+	{
+		"language": "Kotlin",
+		"num_repos": "7416"
+	},
+	{
+		"language": "D",
+		"num_repos": "7186"
+	},
+	{
+		"language": "Scheme",
+		"num_repos": "7177"
+	},
+	{
+		"language": "PLSQL",
+		"num_repos": "6950"
+	},
+	{
+		"language": "Handlebars",
+		"num_repos": "6863"
+	},
+	{
+		"language": "Elixir",
+		"num_repos": "6814"
+	},
+	{
+		"language": "Processing",
+		"num_repos": "6775"
+	},
+	{
+		"language": "F#",
+		"num_repos": "5884"
+	},
+	{
+		"language": "Julia",
+		"num_repos": "5858"
+	},
+	{
+		"language": "Common Lisp",
+		"num_repos": "5679"
+	},
+	{
+		"language": "Dart",
+		"num_repos": "5629"
+	},
+	{
+		"language": "Smalltalk",
+		"num_repos": "5588"
+	},
+	{
+		"language": "OCaml",
+		"num_repos": "5575"
+	},
+	{
+		"language": "SQLPL",
+		"num_repos": "5352"
+	},
+	{
+		"language": "Perl6",
+		"num_repos": "5328"
+	},
+	{
+		"language": "IDL",
+		"num_repos": "5323"
+	},
+	{
+		"language": "QML",
+		"num_repos": "5233"
+	},
+	{
+		"language": "M",
+		"num_repos": "4935"
+	},
+	{
+		"language": "Gherkin",
+		"num_repos": "4707"
+	},
+	{
+		"language": "Logos",
+		"num_repos": "4527"
+	},
+	{
+		"language": "TSQL",
+		"num_repos": "4395"
+	},
+	{
+		"language": "Cuda",
+		"num_repos": "4346"
+	},
+	{
+		"language": "Mako",
+		"num_repos": "4332"
+	},
+	{
+		"language": "PostScript",
+		"num_repos": "4133"
+	},
+	{
+		"language": "AppleScript",
+		"num_repos": "4069"
+	},
+	{
+		"language": "GAP",
+		"num_repos": "4054"
+	},
+	{
+		"language": "DIGITAL Command Language",
+		"num_repos": "3832"
+	},
+	{
+		"language": "Racket",
+		"num_repos": "3767"
+	},
+	{
+		"language": "FORTRAN",
+		"num_repos": "3756"
+	},
+	{
+		"language": "SuperCollider",
+		"num_repos": "3713"
+	},
+	{
+		"language": "Inno Setup",
+		"num_repos": "3661"
+	},
+	{
+		"language": "Bison",
+		"num_repos": "3649"
+	},
+	{
+		"language": "FreeMarker",
+		"num_repos": "3553"
+	},
+	{
+		"language": "Thrift",
+		"num_repos": "3515"
+	},
+	{
+		"language": "Haxe",
+		"num_repos": "3306"
+	},
+	{
+		"language": "Gnuplot",
+		"num_repos": "3183"
+	},
+	{
+		"language": "Hack",
+		"num_repos": "3052"
+	},
+	{
+		"language": "Verilog",
+		"num_repos": "2956"
+	},
+	{
+		"language": "DOT",
+		"num_repos": "2954"
+	},
+	{
+		"language": "HCL",
+		"num_repos": "2877"
+	},
+	{
+		"language": "Elm",
+		"num_repos": "2855"
+	},
+	{
+		"language": "ANTLR",
+		"num_repos": "2834"
+	},
+	{
+		"language": "Fortran",
+		"num_repos": "2750"
+	},
+	{
+		"language": "XML",
+		"num_repos": "2709"
+	},
+	{
+		"language": "Mathematica",
+		"num_repos": "2649"
+	},
+	{
+		"language": "MATLAB",
+		"num_repos": "2624"
+	},
+	{
+		"language": "OpenEdge ABL",
+		"num_repos": "2563"
+	},
+	{
+		"language": "GDB",
+		"num_repos": "2563"
+	},
+	{
+		"language": "Nix",
+		"num_repos": "2446"
+	},
+	{
+		"language": "Standard ML",
+		"num_repos": "2392"
+	},
+	{
+		"language": "LiveScript",
+		"num_repos": "2274"
+	},
+	{
+		"language": "Perl 6",
+		"num_repos": "2159"
+	},
+	{
+		"language": "Ada",
+		"num_repos": "2154"
+	},
+	{
+		"language": "SCSS",
+		"num_repos": "2103"
+	},
+	{
+		"language": "Eagle",
+		"num_repos": "2092"
+	},
+	{
+		"language": "VHDL",
+		"num_repos": "2091"
+	},
+	{
+		"language": "ColdFusion",
+		"num_repos": "2061"
+	},
+	{
+		"language": "DTrace",
+		"num_repos": "2055"
+	},
+	{
+		"language": "Vala",
+		"num_repos": "2030"
+	},
+	{
+		"language": "XS",
+		"num_repos": "1944"
+	},
+	{
+		"language": "Forth",
+		"num_repos": "1904"
+	},
+	{
+		"language": "OpenSCAD",
+		"num_repos": "1779"
+	},
+	{
+		"language": "SaltStack",
+		"num_repos": "1684"
+	},
+	{
+		"language": "Rebol",
+		"num_repos": "1667"
+	},
+	{
+		"language": "HLSL",
+		"num_repos": "1632"
+	},
+	{
+		"language": "AutoHotkey",
+		"num_repos": "1450"
+	},
+	{
+		"language": "SAS",
+		"num_repos": "1344"
+	},
+	{
+		"language": "LLVM",
+		"num_repos": "1338"
+	},
+	{
+		"language": "Module Management System",
+		"num_repos": "1319"
+	},
+	{
+		"language": "Crystal",
+		"num_repos": "1196"
+	},
+	{
+		"language": "ShaderLab",
+		"num_repos": "1191"
+	},
+	{
+		"language": "XQuery",
+		"num_repos": "1175"
+	},
+	{
+		"language": "KiCad",
+		"num_repos": "1104"
+	},
+	{
+		"language": "SystemVerilog",
+		"num_repos": "1039"
+	},
+	{
+		"language": "Max",
+		"num_repos": "1034"
+	},
+	{
+		"language": "Coq",
+		"num_repos": "1033"
+	},
+	{
+		"language": "BitBake",
+		"num_repos": "1029"
+	},
+	{
+		"language": "Stata",
+		"num_repos": "1026"
+	},
+	{
+		"language": "Liquid",
+		"num_repos": "998"
+	},
+	{
+		"language": "CLIPS",
+		"num_repos": "989"
+	},
+	{
+		"language": "Meson",
+		"num_repos": "957"
+	},
+	{
+		"language": "sed",
+		"num_repos": "954"
+	},
+	{
+		"language": "eC",
+		"num_repos": "924"
+	},
+	{
+		"language": "Pure Data",
+		"num_repos": "915"
+	},
+	{
+		"language": "Ragel in Ruby Host",
+		"num_repos": "911"
+	},
+	{
+		"language": "Starlark",
+		"num_repos": "897"
+	},
+	{
+		"language": "Rich Text Format",
+		"num_repos": "890"
+	},
+	{
+		"language": "GCC Machine Description",
+		"num_repos": "880"
+	},
+	{
+		"language": "FLUX",
+		"num_repos": "864"
+	},
+	{
+		"language": "AMPL",
+		"num_repos": "839"
+	},
+	{
+		"language": "Xtend",
+		"num_repos": "834"
+	},
+	{
+		"language": "Brainfuck",
+		"num_repos": "832"
+	},
+	{
+		"language": "PureScript",
+		"num_repos": "826"
+	},
+	{
+		"language": "API Blueprint",
+		"num_repos": "812"
+	},
+	{
+		"language": "NewLisp",
+		"num_repos": "809"
+	},
+	{
+		"language": "AspectJ",
+		"num_repos": "787"
+	},
+	{
+		"language": "Apex",
+		"num_repos": "777"
+	},
+	{
+		"language": "Eiffel",
+		"num_repos": "709"
+	},
+	{
+		"language": "AGS Script",
+		"num_repos": "670"
+	},
+	{
+		"language": "COBOL",
+		"num_repos": "662"
+	},
+	{
+		"language": "Cap'n Proto",
+		"num_repos": "662"
+	},
+	{
+		"language": "GDScript",
+		"num_repos": "659"
+	},
+	{
+		"language": "AutoIt",
+		"num_repos": "655"
+	},
+	{
+		"language": "Mercury",
+		"num_repos": "652"
+	},
+	{
+		"language": "Gettext Catalog",
+		"num_repos": "652"
+	},
+	{
+		"language": "Web Ontology Language",
+		"num_repos": "647"
+	},
+	{
+		"language": "SQL",
+		"num_repos": "640"
+	},
+	{
+		"language": "PureBasic",
+		"num_repos": "638"
+	},
+	{
+		"language": "Io",
+		"num_repos": "624"
+	},
+	{
+		"language": "SQF",
+		"num_repos": "610"
+	},
+	{
+		"language": "Nimrod",
+		"num_repos": "606"
+	},
+	{
+		"language": "Less",
+		"num_repos": "606"
+	},
+	{
+		"language": "PigLatin",
+		"num_repos": "604"
+	},
+	{
+		"language": "Mask",
+		"num_repos": "599"
+	},
+	{
+		"language": "Diff",
+		"num_repos": "564"
+	},
+	{
+		"language": "Gosu",
+		"num_repos": "543"
+	},
+	{
+		"language": "Modelica",
+		"num_repos": "543"
+	},
+	{
+		"language": "PAWN",
+		"num_repos": "510"
+	},
+	{
+		"language": "RobotFramework",
+		"num_repos": "509"
+	},
+	{
+		"language": "BlitzBasic",
+		"num_repos": "496"
+	},
+	{
+		"language": "RAML",
+		"num_repos": "474"
+	},
+	{
+		"language": "Arc",
+		"num_repos": "468"
+	},
+	{
+		"language": "Nim",
+		"num_repos": "467"
+	},
+	{
+		"language": "nesC",
+		"num_repos": "462"
+	},
+	{
+		"language": "EmberScript",
+		"num_repos": "456"
+	},
+	{
+		"language": "POV-Ray SDL",
+		"num_repos": "450"
+	},
+	{
+		"language": "ABAP",
+		"num_repos": "447"
+	},
+	{
+		"language": "XC",
+		"num_repos": "443"
+	},
+	{
+		"language": "Lasso",
+		"num_repos": "438"
+	},
+	{
+		"language": "Squirrel",
+		"num_repos": "434"
+	},
+	{
+		"language": "Game Maker Language",
+		"num_repos": "433"
+	},
+	{
+		"language": "VCL",
+		"num_repos": "428"
+	},
+	{
+		"language": "JSONiq",
+		"num_repos": "428"
+	},
+	{
+		"language": "Slash",
+		"num_repos": "425"
+	},
+	{
+		"language": "Vim Snippet",
+		"num_repos": "399"
+	},
+	{
+		"language": "RenderScript",
+		"num_repos": "397"
+	},
+	{
+		"language": "LSL",
+		"num_repos": "395"
+	},
+	{
+		"language": "DM",
+		"num_repos": "394"
+	},
+	{
+		"language": "Nu",
+		"num_repos": "370"
+	},
+	{
+		"language": "MoonScript",
+		"num_repos": "364"
+	},
+	{
+		"language": "Raku",
+		"num_repos": "363"
+	},
+	{
+		"language": "Limbo",
+		"num_repos": "361"
+	},
+	{
+		"language": "Volt",
+		"num_repos": "357"
+	},
+	{
+		"language": "LabVIEW",
+		"num_repos": "355"
+	},
+	{
+		"language": "xBase",
+		"num_repos": "348"
+	},
+	{
+		"language": "SWIG",
+		"num_repos": "345"
+	},
+	{
+		"language": "Jinja",
+		"num_repos": "345"
+	},
+	{
+		"language": "CartoCSS",
+		"num_repos": "341"
+	},
+	{
+		"language": "Objective-J",
+		"num_repos": "339"
+	},
+	{
+		"language": "MAXScript",
+		"num_repos": "326"
+	},
+	{
+		"language": "AngelScript",
+		"num_repos": "321"
+	},
+	{
+		"language": "E",
+		"num_repos": "309"
+	},
+	{
+		"language": "Ragel",
+		"num_repos": "301"
+	},
+	{
+		"language": "Idris",
+		"num_repos": "298"
+	},
+	{
+		"language": "LilyPond",
+		"num_repos": "298"
+	},
+	{
+		"language": "Cirru",
+		"num_repos": "288"
+	},
+	{
+		"language": "Augeas",
+		"num_repos": "288"
+	},
+	{
+		"language": "Pawn",
+		"num_repos": "287"
+	},
+	{
+		"language": "Nemerle",
+		"num_repos": "286"
+	},
+	{
+		"language": "Clarion",
+		"num_repos": "277"
+	},
+	{
+		"language": "1C Enterprise",
+		"num_repos": "264"
+	},
+	{
+		"language": "Clean",
+		"num_repos": "263"
+	},
+	{
+		"language": "Lean",
+		"num_repos": "263"
+	},
+	{
+		"language": "YASnippet",
+		"num_repos": "261"
+	},
+	{
+		"language": "Mustache",
+		"num_repos": "254"
+	},
+	{
+		"language": "VBScript",
+		"num_repos": "252"
+	},
+	{
+		"language": "Metal",
+		"num_repos": "246"
+	},
+	{
+		"language": "Boo",
+		"num_repos": "241"
+	},
+	{
+		"language": "Delphi",
+		"num_repos": "240"
+	},
+	{
+		"language": "Visual Basic .NET",
+		"num_repos": "238"
+	},
+	{
+		"language": "XProc",
+		"num_repos": "222"
+	},
+	{
+		"language": "Smali",
+		"num_repos": "209"
+	},
+	{
+		"language": "Jasmin",
+		"num_repos": "205"
+	},
+	{
+		"language": "Agda",
+		"num_repos": "204"
+	},
+	{
+		"language": "Terra",
+		"num_repos": "200"
+	},
+	{
+		"language": "Twig",
+		"num_repos": "198"
+	},
+	{
+		"language": "EJS",
+		"num_repos": "190"
+	},
+	{
+		"language": "VBA",
+		"num_repos": "183"
+	},
+	{
+		"language": "Hy",
+		"num_repos": "179"
+	},
+	{
+		"language": "LookML",
+		"num_repos": "172"
+	},
+	{
+		"language": "Ceylon",
+		"num_repos": "168"
+	},
+	{
+		"language": "SRecode Template",
+		"num_repos": "166"
+	},
+	{
+		"language": "Turing",
+		"num_repos": "165"
+	},
+	{
+		"language": "Cython",
+		"num_repos": "165"
+	},
+	{
+		"language": "Frege",
+		"num_repos": "163"
+	},
+	{
+		"language": "Jsonnet",
+		"num_repos": "163"
+	},
+	{
+		"language": "RPC",
+		"num_repos": "157"
+	},
+	{
+		"language": "q",
+		"num_repos": "156"
+	},
+	{
+		"language": "NetLogo",
+		"num_repos": "155"
+	},
+	{
+		"language": "Stan",
+		"num_repos": "153"
+	},
+	{
+		"language": "WebAssembly",
+		"num_repos": "151"
+	},
+	{
+		"language": "Bro",
+		"num_repos": "150"
+	},
+	{
+		"language": "Pan",
+		"num_repos": "150"
+	},
+	{
+		"language": "J",
+		"num_repos": "149"
+	},
+	{
+		"language": "SMT",
+		"num_repos": "144"
+	},
+	{
+		"language": "Pug",
+		"num_repos": "143"
+	},
+	{
+		"language": "Isabelle",
+		"num_repos": "142"
+	},
+	{
+		"language": "Zephir",
+		"num_repos": "140"
+	},
+	{
+		"language": "NASL",
+		"num_repos": "138"
+	},
+	{
+		"language": "Component Pascal",
+		"num_repos": "129"
+	},
+	{
+		"language": "Propeller Spin",
+		"num_repos": "128"
+	},
+	{
+		"language": "Click",
+		"num_repos": "127"
+	},
+	{
+		"language": "ooc",
+		"num_repos": "126"
+	},
+	{
+		"language": "HiveQL",
+		"num_repos": "124"
+	},
+	{
+		"language": "WebIDL",
+		"num_repos": "121"
+	},
+	{
+		"language": "Parrot",
+		"num_repos": "119"
+	},
+	{
+		"language": "Dylan",
+		"num_repos": "118"
+	},
+	{
+		"language": "Monkey",
+		"num_repos": "116"
+	},
+	{
+		"language": "Sass",
+		"num_repos": "116"
+	},
+	{
+		"language": "Genshi",
+		"num_repos": "115"
+	},
+	{
+		"language": "Modula-2",
+		"num_repos": "114"
+	},
+	{
+		"language": "Fancy",
+		"num_repos": "113"
+	},
+	{
+		"language": "Factor",
+		"num_repos": "112"
+	},
+	{
+		"language": "Rascal",
+		"num_repos": "112"
+	},
+	{
+		"language": "Redcode",
+		"num_repos": "107"
+	},
+	{
+		"language": "LOLCODE",
+		"num_repos": "107"
+	},
+	{
+		"language": "Pike",
+		"num_repos": "104"
+	},
+	{
+		"language": "Haml",
+		"num_repos": "103"
+	},
+	{
+		"language": "SmPL",
+		"num_repos": "102"
+	},
+	{
+		"language": "Brightscript",
+		"num_repos": "97"
+	},
+	{
+		"language": "ChucK",
+		"num_repos": "95"
+	},
+	{
+		"language": "PicoLisp",
+		"num_repos": "94"
+	},
+	{
+		"language": "APL",
+		"num_repos": "94"
+	},
+	{
+		"language": "Stylus",
+		"num_repos": "94"
+	},
+	{
+		"language": "Red",
+		"num_repos": "91"
+	},
+	{
+		"language": "G-code",
+		"num_repos": "90"
+	},
+	{
+		"language": "Alloy",
+		"num_repos": "89"
+	},
+	{
+		"language": "ASP.NET",
+		"num_repos": "89"
+	},
+	{
+		"language": "Csound Document",
+		"num_repos": "88"
+	},
+	{
+		"language": "Harbour",
+		"num_repos": "86"
+	},
+	{
+		"language": "IGOR Pro",
+		"num_repos": "80"
+	},
+	{
+		"language": "Papyrus",
+		"num_repos": "78"
+	},
+	{
+		"language": "Pony",
+		"num_repos": "77"
+	},
+	{
+		"language": "TLA",
+		"num_repos": "76"
+	},
+	{
+		"language": "Blade",
+		"num_repos": "76"
+	},
+	{
+		"language": "Oz",
+		"num_repos": "75"
+	},
+	{
+		"language": "mupad",
+		"num_repos": "70"
+	},
+	{
+		"language": "UrWeb",
+		"num_repos": "70"
+	},
+	{
+		"language": "Kit",
+		"num_repos": "68"
+	},
+	{
+		"language": "Xojo",
+		"num_repos": "68"
+	},
+	{
+		"language": "Common Workflow Language",
+		"num_repos": "68"
+	},
+	{
+		"language": "Cycript",
+		"num_repos": "67"
+	},
+	{
+		"language": "Graphviz (DOT)",
+		"num_repos": "67"
+	},
+	{
+		"language": "KiCad Layout",
+		"num_repos": "66"
+	},
+	{
+		"language": "NCL",
+		"num_repos": "63"
+	},
+	{
+		"language": "HyPhy",
+		"num_repos": "62"
+	},
+	{
+		"language": "Csound",
+		"num_repos": "61"
+	},
+	{
+		"language": "Inform 7",
+		"num_repos": "61"
+	},
+	{
+		"language": "REXX",
+		"num_repos": "60"
+	},
+	{
+		"language": "Slim",
+		"num_repos": "60"
+	},
+	{
+		"language": "Csound Score",
+		"num_repos": "60"
+	},
+	{
+		"language": "Cool",
+		"num_repos": "59"
+	},
+	{
+		"language": "Opa",
+		"num_repos": "58"
+	},
+	{
+		"language": "Myghty",
+		"num_repos": "58"
+	},
+	{
+		"language": "Chapel",
+		"num_repos": "55"
+	},
+	{
+		"language": "Nextflow",
+		"num_repos": "54"
+	},
+	{
+		"language": "Logtalk",
+		"num_repos": "53"
+	},
+	{
+		"language": "BlitzMax",
+		"num_repos": "52"
+	},
+	{
+		"language": "GAMS",
+		"num_repos": "51"
+	},
+	{
+		"language": "Ren'Py",
+		"num_repos": "50"
+	},
+	{
+		"language": "Bluespec",
+		"num_repos": "50"
+	},
+	{
+		"language": "ATS",
+		"num_repos": "46"
+	},
+	{
+		"language": "Mirah",
+		"num_repos": "43"
+	},
+	{
+		"language": "Nunjucks",
+		"num_repos": "42"
+	},
+	{
+		"language": "CWeb",
+		"num_repos": "42"
+	},
+	{
+		"language": "Ioke",
+		"num_repos": "41"
+	},
+	{
+		"language": "YARA",
+		"num_repos": "41"
+	},
+	{
+		"language": "JFlex",
+		"num_repos": "39"
+	},
+	{
+		"language": "Fantom",
+		"num_repos": "38"
+	},
+	{
+		"language": "P4",
+		"num_repos": "38"
+	},
+	{
+		"language": "Solidity",
+		"num_repos": "38"
+	},
+	{
+		"language": "Grammatical Framework",
+		"num_repos": "37"
+	},
+	{
+		"language": "Zimpl",
+		"num_repos": "37"
+	},
+	{
+		"language": "Uno",
+		"num_repos": "37"
+	},
+	{
+		"language": "MQL4",
+		"num_repos": "36"
+	},
+	{
+		"language": "V",
+		"num_repos": "36"
+	},
+	{
+		"language": "MQL5",
+		"num_repos": "36"
+	},
+	{
+		"language": "Sage",
+		"num_repos": "35"
+	},
+	{
+		"language": "mIRC Script",
+		"num_repos": "35"
+	},
+	{
+		"language": "Oxygene",
+		"num_repos": "35"
+	},
+	{
+		"language": "XPages",
+		"num_repos": "34"
+	},
+	{
+		"language": "Pep8",
+		"num_repos": "33"
+	},
+	{
+		"language": "Nearley",
+		"num_repos": "32"
+	},
+	{
+		"language": "DCPU-16 ASM",
+		"num_repos": "30"
+	},
+	{
+		"language": "F*",
+		"num_repos": "29"
+	},
+	{
+		"language": "Golo",
+		"num_repos": "29"
+	},
+	{
+		"language": "KRL",
+		"num_repos": "29"
+	},
+	{
+		"language": "AIDL",
+		"num_repos": "29"
+	},
+	{
+		"language": "Fluent",
+		"num_repos": "28"
+	},
+	{
+		"language": "Self",
+		"num_repos": "27"
+	},
+	{
+		"language": "Nit",
+		"num_repos": "27"
+	},
+	{
+		"language": "PEG.js",
+		"num_repos": "26"
+	},
+	{
+		"language": "MLIR",
+		"num_repos": "26"
+	},
+	{
+		"language": "Dogescript",
+		"num_repos": "26"
+	},
+	{
+		"language": "Ecl",
+		"num_repos": "25"
+	},
+	{
+		"language": "wdl",
+		"num_repos": "25"
+	},
+	{
+		"language": "Dhall",
+		"num_repos": "25"
+	},
+	{
+		"language": "NetLinx",
+		"num_repos": "25"
+	},
+	{
+		"language": "wisp",
+		"num_repos": "23"
+	},
+	{
+		"language": "BASIC",
+		"num_repos": "22"
+	},
+	{
+		"language": "ReScript",
+		"num_repos": "22"
+	},
+	{
+		"language": "Ballerina",
+		"num_repos": "22"
+	},
+	{
+		"language": "TXL",
+		"num_repos": "21"
+	},
+	{
+		"language": "Open Policy Agent",
+		"num_repos": "21"
+	},
+	{
+		"language": "Moocode",
+		"num_repos": "21"
+	},
+	{
+		"language": "ECL",
+		"num_repos": "20"
+	},
+	{
+		"language": "Faust",
+		"num_repos": "20"
+	},
+	{
+		"language": "CodeQL",
+		"num_repos": "20"
+	},
+	{
+		"language": "Ox",
+		"num_repos": "19"
+	},
+	{
+		"language": "Svelte",
+		"num_repos": "19"
+	},
+	{
+		"language": "Filebench WML",
+		"num_repos": "18"
+	},
+	{
+		"language": "Asymptote",
+		"num_repos": "18"
+	},
+	{
+		"language": "X10",
+		"num_repos": "18"
+	},
+	{
+		"language": "ShellSession",
+		"num_repos": "17"
+	},
+	{
+		"language": "Reason",
+		"num_repos": "17"
+	},
+	{
+		"language": "Riot",
+		"num_repos": "17"
+	},
+	{
+		"language": "REALbasic",
+		"num_repos": "17"
+	},
+	{
+		"language": "Modula-3",
+		"num_repos": "16"
+	},
+	{
+		"language": "PowerBuilder",
+		"num_repos": "16"
+	},
+	{
+		"language": "Slice",
+		"num_repos": "16"
+	},
+	{
+		"language": "Closure Templates",
+		"num_repos": "15"
+	},
+	{
+		"language": "jq",
+		"num_repos": "15"
+	},
+	{
+		"language": "Shen",
+		"num_repos": "15"
+	},
+	{
+		"language": "Genie",
+		"num_repos": "15"
+	},
+	{
+		"language": "Classic ASP",
+		"num_repos": "15"
+	},
+	{
+		"language": "Grace",
+		"num_repos": "15"
+	},
+	{
+		"language": "Zeek",
+		"num_repos": "14"
+	},
+	{
+		"language": "Tea",
+		"num_repos": "14"
+	},
+	{
+		"language": "Jolie",
+		"num_repos": "14"
+	},
+	{
+		"language": "ASL",
+		"num_repos": "13"
+	},
+	{
+		"language": "StringTemplate",
+		"num_repos": "13"
+	},
+	{
+		"language": "LFE",
+		"num_repos": "13"
+	},
+	{
+		"language": "EQ",
+		"num_repos": "12"
+	},
+	{
+		"language": "Rouge",
+		"num_repos": "12"
+	},
+	{
+		"language": "MTML",
+		"num_repos": "12"
+	},
+	{
+		"language": "Zig",
+		"num_repos": "12"
+	},
+	{
+		"language": "ObjectScript",
+		"num_repos": "12"
+	},
+	{
+		"language": "PogoScript",
+		"num_repos": "12"
+	},
+	{
+		"language": "Qt Script",
+		"num_repos": "12"
+	},
+	{
+		"language": "FreeBasic",
+		"num_repos": "12"
+	},
+	{
+		"language": "Glyph",
+		"num_repos": "11"
+	},
+	{
+		"language": "Opal",
+		"num_repos": "10"
+	},
+	{
+		"language": "Charity",
+		"num_repos": "10"
+	},
+	{
+		"language": "DataWeave",
+		"num_repos": "9"
+	},
+	{
+		"language": "Markdown",
+		"num_repos": "8"
+	},
+	{
+		"language": "Omgrofl",
+		"num_repos": "8"
+	},
+	{
+		"language": "TI Program",
+		"num_repos": "7"
+	},
+	{
+		"language": "YAML",
+		"num_repos": "7"
+	},
+	{
+		"language": "RUNOFF",
+		"num_repos": "7"
+	},
+	{
+		"language": "LoomScript",
+		"num_repos": "7"
+	},
+	{
+		"language": "Befunge",
+		"num_repos": "7"
+	},
+	{
+		"language": "HolyC",
+		"num_repos": "7"
+	},
+	{
+		"language": "ZenScript",
+		"num_repos": "6"
+	},
+	{
+		"language": "Bicep",
+		"num_repos": "6"
+	},
+	{
+		"language": "Odin",
+		"num_repos": "6"
+	},
+	{
+		"language": "Xonsh",
+		"num_repos": "5"
+	},
+	{
+		"language": "Singularity",
+		"num_repos": "5"
+	},
+	{
+		"language": "ImageJ Macro",
+		"num_repos": "5"
+	},
+	{
+		"language": "Sieve",
+		"num_repos": "4"
+	},
+	{
+		"language": "OpenQASM",
+		"num_repos": "4"
+	},
+	{
+		"language": "Earthly",
+		"num_repos": "4"
+	},
+	{
+		"language": "NetLinx+ERB",
+		"num_repos": "3"
+	},
+	{
+		"language": "AL",
+		"num_repos": "3"
+	},
+	{
+		"language": "CUE",
+		"num_repos": "3"
+	},
+	{
+		"language": "Fennel",
+		"num_repos": "3"
+	},
+	{
+		"language": "Kaitai Struct",
+		"num_repos": "3"
+	},
+	{
+		"language": "GAML",
+		"num_repos": "3"
+	},
+	{
+		"language": "JSON",
+		"num_repos": "3"
+	},
+	{
+		"language": "Ring",
+		"num_repos": "3"
+	},
+	{
+		"language": "Latte",
+		"num_repos": "3"
+	},
+	{
+		"language": "Scaml",
+		"num_repos": "2"
+	},
+	{
+		"language": "CSON",
+		"num_repos": "2"
+	},
+	{
+		"language": "ZAP",
+		"num_repos": "2"
+	},
+	{
+		"language": "Promela",
+		"num_repos": "2"
+	},
+	{
+		"language": "Marko",
+		"num_repos": "2"
+	},
+	{
+		"language": "Macaulay2",
+		"num_repos": "2"
+	},
+	{
+		"language": "Wollok",
+		"num_repos": "2"
+	},
+	{
+		"language": "Astro",
+		"num_repos": "2"
+	},
+	{
+		"language": "Futhark",
+		"num_repos": "1"
+	},
+	{
+		"language": "KiCad Schematic",
+		"num_repos": "1"
+	},
+	{
+		"language": "KakouneScript",
+		"num_repos": "1"
+	},
+	{
+		"language": "INI",
+		"num_repos": "1"
+	},
+	{
+		"language": "Beef",
+		"num_repos": "1"
+	},
+	{
+		"language": "Org",
+		"num_repos": "1"
+	},
+	{
+		"language": "Q#",
+		"num_repos": "1"
+	},
+	{
+		"language": "Motoko",
+		"num_repos": "1"
+	},
+	{
+		"language": "Boogie",
+		"num_repos": "1"
+	}
+]
